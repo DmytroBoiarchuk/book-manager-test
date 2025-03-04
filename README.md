@@ -24,7 +24,7 @@ npm install
 ```
 
 ### 3. Run Backend
-Pass it to JSON Server CLI
+Pass db.json to JSON Server CLI
 ```bash
 npx json-server db.json
 ```
