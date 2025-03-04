@@ -1,0 +1,104 @@
+{
+  "books": [
+    {
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "category": "Fiction",
+      "isbn": "9781250301697",
+      "createdAt": "2025-03-03T10:30:15.123Z",
+      "modifiedAt": "2025-03-03T12:45:30.567Z",
+      "isActive": true,
+      "id": "b001"
+    },
+    {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "category": "Biography",
+      "isbn": "9780399590504",
+      "createdAt": "2025-03-02T14:20:10.321Z",
+      "modifiedAt": "2025-03-02T16:30:45.789Z",
+      "isActive": true,
+      "id": "b002"
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "category": "Science",
+      "isbn": "9780062316097",
+      "createdAt": "2025-03-01T08:15:22.654Z",
+      "modifiedAt": "2025-03-01T09:40:50.312Z",
+      "isActive": true,
+      "id": "b003"
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "isbn": "9780061122415",
+      "createdAt": "2025-03-03T18:45:33.876Z",
+      "modifiedAt": "2025-03-03T19:50:55.432Z",
+      "isActive": true,
+      "id": "b004"
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self-help",
+      "isbn": "9780735211292",
+      "createdAt": "2025-03-02T21:10:11.789Z",
+      "modifiedAt": "2025-03-02T22:15:20.345Z",
+      "isActive": true,
+      "id": "b005"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Fiction",
+      "isbn": "9780061120084",
+      "createdAt": "2025-03-01T15:55:44.123Z",
+      "modifiedAt": "2025-03-01T16:50:12.987Z",
+      "isActive": false,
+      "id": "b006"
+    },
+    {
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "category": "Biography",
+      "isbn": "9781524763138",
+      "createdAt": "2025-03-02T09:25:33.654Z",
+      "modifiedAt": "2025-03-02T10:30:48.876Z",
+      "isActive": false,
+      "id": "b007"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Fiction",
+      "isbn": "9780451524935",
+      "createdAt": "2025-03-03T07:40:55.432Z",
+      "modifiedAt": "2025-03-03T08:50:22.765Z",
+      "isActive": true,
+      "id": "b008"
+    },
+    {
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "category": "Self-help",
+      "isbn": "9780812981605",
+      "createdAt": "2025-03-02T12:00:00.123Z",
+      "modifiedAt": "2025-03-02T13:15:30.987Z",
+      "isActive": false,
+      "id": "b009"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "category": "Fiction",
+      "isbn": "9780316769488",
+      "createdAt": "2025-03-01T22:30:15.765Z",
+      "modifiedAt": "2025-03-01T23:45:50.876Z",
+      "isActive": true,
+      "id": "b010"
+    }
+  ]
+}
